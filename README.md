@@ -14,4 +14,4 @@ Plataforma de dados utilizada: Google Colab
 
 Notebooks:
 
-- analise_dados-global_AI_job_market.ipynb -> análise de dados (EDA) e pré-processamento do dataset
+- analise_dados_global_AI_job_market.ipynb ([link Colab](https://colab.research.google.com/github/llrt/pos_dados_puc_rio-mvp_sprint_analise_dados/blob/main/analise_dados_global_AI_job_market.ipynb)) -> análise de dados (EDA) e pré-processamento do dataset
